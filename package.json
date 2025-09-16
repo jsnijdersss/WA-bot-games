@@ -1,0 +1,17 @@
+{
+  "name": "venom-render-bot",
+  "version": "1.0.0",
+  "description": "Venom bot voor GoieScheids - Render ready",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.0",
+    "axios": "^1.4.0",
+    "node-persist": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
